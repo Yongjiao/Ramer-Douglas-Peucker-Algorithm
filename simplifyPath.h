@@ -32,12 +32,6 @@ typedef struct Point{
         return p;
     }
     
-//    Point& operator-(Point rhs){
-//        this->x=this->x-rhs.x;
-//        this->y=this->y-rhs.y;
-//        return *this;
-//    }
-    
     double Norm()const{
         return sqrt(this->x * this->x + this->y * this->y);
     }
