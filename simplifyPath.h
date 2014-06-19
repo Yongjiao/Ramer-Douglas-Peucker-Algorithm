@@ -7,8 +7,8 @@
 //
 
 
-#ifndef __HELLO__H__
-#define __HELLO__H__
+#ifndef __simplifyPath__H__
+#define __simplifyPath__H__
 
 #include <iostream>
 #include <cstdlib>
