@@ -1,4 +1,4 @@
-<!-- > Format for all simulations -->
+<!-- Format for all simulations -->
 <!ELEMENT simulation (type, size, attribute*, initialstate)> 
 <!ELEMENT type (#PCDATA)>
 <!ELEMENT size (width, height)>
